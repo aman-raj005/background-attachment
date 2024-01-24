@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- <link rel="stylesheet"href="MULTILAYERWEBSITE.css"> -->
+</head>
+<style>
+  section{
+    background-color:rgb(45,45,45);
+    color:white;
+    padding:5rem 0 ;
+
+}
+.abcd {
+    font-size: 5rem;
+    padding:0 10rem ;
+}
+
+.TEXT{
+    font-size:1.5rem;
+    padding:0 10rem;
+    margin: 5rem 0;
+}
+
+.bg{position: relative;
+width:100%;
+height:500px;
+background-attachment:fixed;}
+.bg1{ background-image:url(https://i.pinimg.com/474x/3c/25/fe/3c25fec87909d4483ca9de1d800971a1.jpg);
+  width:100%;
+height:100vw;}
+
+.bg2{ background-image:url(https://i.pinimg.com/474x/a1/ea/61/a1ea6124ef7e44852a5e527e84a1b3ba.jpg);
+}
+
+.bg3{ background-image:url(https://i.pinimg.com/474x/d0/9c/d0/d09cd0efc9e9b75f53277138bc7e24e2.jpg);
+}
+</style>
+<body>
+    <section>
+        <div class="bg bg1">
+          <div ><h1 class="abcd">SUN SET</h1> </div>
+          <P CLASS="TEXT">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, unde excepturi. Provident consequatur e
+            st fugiat, harum dolor veritatis ipsam odit numquam voluptatem?
+             <br> <br>
+             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, unde excepturi. Provident consequatur e
+             st fugiat, harum dolor veritatis ipsam odit numquam voluptatem? 
+             idence was the draisienne, invented by Baron Karl von Drais de Sauerbrun of Germany. In 1817 he rode it for 14 km (9 miles), and the following year he exhibited it in Paris. Although von Drais called his device a Laufmaschine (“running machine”), draisienne and velocipede became more popular names. The machine was made of wood, and the seated rider propelled himself by paddling his feet against the ground. A balance board supported the rider’s arms. Although von Drais was granted patents, copies were soon being produced in other countries, including Great Britain, Austria, Italy, and the United States. 
+             <br> <br>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, unde excepturi. Provident consequatur e
+              st fugiat, harum dolor veritatis ipsam odit numquam voluptatem? 
+              rider-propelled machine for which there is indisputable evidence was the draisienne, invented by Baron Karl von Drais de Sauerbrun of Germany. In 1817 he rode it for 14 km (9 miles), and the following year he exhibited it in Paris. Although von Drais called his device a Laufmaschine (“running machine”), draisienne and velocipede became more popular names. The machine was made of wood, and the seated rider propelled himself by paddling his feet against the ground. A balance board supported the rider’s arms. Although von Drais was granted patents, copies were soon being produced in other countries, including Great Britain, Austria, Italy, and the United States.
+            </P>
+        </div>
+        <div class="bg bg2">
+            <div class="abcd"> <h1> SUN RISE</h1></div>
+            <P CLASS="TEXT">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, unde excepturi. Provident consequatur e
+              st fugiat, harum dolor veritatis ipsam odit numquam voluptatem?
+              for which there is indisputable evidence was the draisienne, invented by Baron Karl von Drais de Sauerbrun of Germany. In 1817 he rode it for 14 km (9 miles), and the following year he exhibited it in Paris. Although von Drais called his device a Laufmaschine (“running machine”), draisienne and velocipede became more popular names. The machine was made of wood, and the seated rider propelled himself by paddling his feet against the ground. A balance board supported the rider’s arms. Although von Drais was granted patents, copies were soon being produced in other countries, including Great Britain, Austria, Italy, and the United States. 
+              <br> <br>
+               Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, unde excepturi. Provident consequatur e
+               st fugiat, harum dolor veritatis ipsam odit numquam voluptatem? 
+               rider-propelled machine for which there is indisputable evidence was the draisienne, invented by Baron Karl von Drais de Sauerbrun of Germany. In 1817 he rode it for 14 km (9 miles), and the following year he exhibited it in Paris. Although von Drais called his device a Laufmaschine (“running machine”), draisienne and velocipede became more popular names. The machine was made of wood, and the seated rider propelled himself by paddling his feet against the ground. A balance board supported the rider’s arms. Although von Drais was granted patents, copies were soon being produced in other countries, including Great Britain, Austria, Italy, and the United States.
+            </P>
+          </div>
+          <div class="bg bg3">
+            <div class="abcd"><h1> BIRDS </h1></div>
+            <P CLASS="TEXT">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, unde excepturi. Provident consequatur e
+              st fugiat, harum dolor veritatis ipsam odit numquam voluptatem?
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, unde excepturi. Provident consequatur e
+              st fugiat, harum dolor veritatis ipsam odit numquam voluptatem?
+              for which there is indisputable evidence was the draisienne, invented by Baron Karl von Drais de Sauerbrun of Germany. In 1817 he rode it for 14 km (9 miles), and the following year he exhibited it in Paris. Although von Drais called his device a Laufmaschine (“running machine”), draisienne and velocipede became more popular names. The machine was made of wood, and the seated rider propelled himself by paddling his feet against the ground. A balance board supported the rider’s arms. Although von Drais was granted patents, copies were soon being produced in other countries, including Great Britain, Austria, Italy, and the United States. 
+              <br> <br>
+               Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, unde excepturi. Provident consequatur e
+               st fugiat, harum dolor veritatis ipsam odit numquam voluptatem? 
+               rider-propelled machine for which there is indisputable evidence was the draisienne, invented by Baron Karl von Drais de Sauerbrun of Germany. In 1817 he rode it for 14 km (9 miles), and the following year he exhibited it in Paris. Although von Drais called his device a Laufmaschine (“running machine”), draisienne and velocipede became more popular names. The machine was made of wood, and the seated rider propelled himself by paddling his feet against the ground. A balance board supported the rider’s arms. Although von Drais was granted patents, copies were soon being produced in other countries, including Great Britain, Austria, Italy, and the United States.
+              <br> <br>
+               Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, unde excepturi. Provident consequatur e
+               st fugiat, harum dolor veritatis ipsam odit numquam voluptatem? 
+            </P>
+          </div>
+    </section>
+</body>
+</html> 
